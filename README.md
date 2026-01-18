@@ -1,2 +1,2 @@
-# latestmovieshub
+# LatestMoviesHub
 It's all about latest movies update and recent events world wide
